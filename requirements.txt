@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+python-dateutil
+bs4
+pandas
+sqlalchemy
+pymysql
