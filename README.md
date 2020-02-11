@@ -5,7 +5,7 @@ GCP上で定期的に[SRSグループ](https://srs-holdings.co.jp/ir/library/mon
 ・Python3.7  
 ・Beautiful Soup  
 ・Cloud Scheduler  
-スクレイピングを定期実行するために、Pub/Subにメッセージを送信。
+スクレイピングを定期実行するために、Pub/Subにメッセージを送信。  
 ・Cloud Pub/Sub  
 ・Cloud Functions  
 ・Cloud SQL  
