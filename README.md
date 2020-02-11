@@ -33,6 +33,6 @@ GCP上で定期的に[SRSグループ](https://srs-holdings.co.jp/ir/library/mon
 | avgSpendPercent | FLOAT | |
 | createdAt | TIMESTAMP | |
 
-# 取得する情報
-以下、[Webサイト](https://srs-holdings.co.jp/ir/library/monthly/)から取得する情報となります。
+# スクレイピングする情報
+以下、[Webサイト](https://srs-holdings.co.jp/ir/library/monthly/)からスクレイピングする情報となります。
 <img width="646" alt="2020-02-11_18h10_29" src="https://user-images.githubusercontent.com/18655253/74225147-7a44fd80-4cfd-11ea-8461-fd1a5c67fba1.png">
