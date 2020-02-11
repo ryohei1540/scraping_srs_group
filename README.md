@@ -2,13 +2,13 @@
 GCP上で定期的に[SRSグループ](https://srs-holdings.co.jp/ir/library/monthly/)のWebサイトから月次の売上情報をBeautifulSoupを利用してスクレイピングし、データベースに保存する仕組みを作成しました。
 
 # 環境
-・Python3.7  
-・Beautiful Soup  
-・Cloud Scheduler  
+- Python3.7  
+- Beautiful Soup  
+- Cloud Scheduler  
 スクレイピングを定期実行するために、Pub/Subにメッセージを送信。  
-・Cloud Pub/Sub  
-・Cloud Functions  
-・Cloud SQL  
+- Cloud Pub/Sub  
+- Cloud Functions  
+- Cloud SQL  
 データベースにはMySQLを指定。
 
 # 構成
